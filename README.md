@@ -1,5 +1,7 @@
 # 🌶️ Spicy Regs — Explore Public Comments in Colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abigailhaddad/spicyregs/blob/main/spicy_regs_explore_comments.ipynb)
+
 A single Google Colab notebook that lets anyone browse, count, and full-text-search
 **24M+ federal public comments** live from the [Spicy Regs](https://github.com/civictechdc/spicy-regs)
 public data lake — no API key, no login, no multi-GB downloads. Queries stream straight
@@ -10,10 +12,9 @@ These files hold the comments regulations.gov **posts publicly**. Counts can lag
 
 ## Open it
 
-**Easiest:** go to [colab.research.google.com](https://colab.research.google.com) →
-**File → Upload notebook** → pick `spicy_regs_explore_comments.ipynb`.
-
-(Once this repo is on GitHub you can also add an *Open in Colab* badge pointing at the file.)
+Click the **Open in Colab** badge above, or open
+[this link](https://colab.research.google.com/github/abigailhaddad/spicyregs/blob/main/spicy_regs_explore_comments.ipynb)
+directly. (You can also upload the `.ipynb` via **File → Upload notebook** in Colab.)
 
 ## What's in the notebook
 
